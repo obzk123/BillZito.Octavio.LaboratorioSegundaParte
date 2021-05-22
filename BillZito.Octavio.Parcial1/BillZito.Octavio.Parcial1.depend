@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1620954636 source:c:\users\octav\desktop\billzito.octavio.parcial1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621642700 source:c:\users\octav\desktop\billzito.octavio.parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"juego.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"fecha.h"
+	"informes.h"
+
+1621029048 c:\users\octav\desktop\billzito.octavio.parcial1\utn.h
+
+1621643161 c:\users\octav\desktop\billzito.octavio.parcial1\juego.h
+	"categoria.h"
+
+1621643088 c:\users\octav\desktop\billzito.octavio.parcial1\categoria.h
+
+1621643123 c:\users\octav\desktop\billzito.octavio.parcial1\cliente.h
+
+1621643053 c:\users\octav\desktop\billzito.octavio.parcial1\alquileres.h
+	"fecha.h"
+	"juego.h"
+	"cliente.h"
+	"categoria.h"
+
+1621029451 c:\users\octav\desktop\billzito.octavio.parcial1\fecha.h
+
+1621117579 source:c:\users\octav\desktop\billzito.octavio.parcial1\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1621638056 source:c:\users\octav\desktop\billzito.octavio.parcial1\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+
+1621563985 source:c:\users\octav\desktop\billzito.octavio.parcial1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+
+1621642848 source:c:\users\octav\desktop\billzito.octavio.parcial1\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+
+1621487219 source:c:\users\octav\desktop\labo\billzito.octavio.parcial1\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+
+1621487219 c:\users\octav\desktop\labo\billzito.octavio.parcial1\alquileres.h
+	"fecha.h"
+	"juego.h"
+	"cliente.h"
+	"categoria.h"
+
+1621029451 c:\users\octav\desktop\labo\billzito.octavio.parcial1\fecha.h
+
+1621037465 c:\users\octav\desktop\labo\billzito.octavio.parcial1\juego.h
+	"categoria.h"
+
+1621037764 c:\users\octav\desktop\labo\billzito.octavio.parcial1\categoria.h
+
+1621486800 c:\users\octav\desktop\labo\billzito.octavio.parcial1\cliente.h
+
+1621029048 c:\users\octav\desktop\labo\billzito.octavio.parcial1\utn.h
+
+1621117579 source:c:\users\octav\desktop\labo\billzito.octavio.parcial1\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1621487080 source:c:\users\octav\desktop\labo\billzito.octavio.parcial1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+
+1621036808 source:c:\users\octav\desktop\labo\billzito.octavio.parcial1\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+
+1621487219 source:c:\users\octav\desktop\labo\billzito.octavio.parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"juego.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"fecha.h"
+
+1620954636 source:c:\users\octav\desktop\labo\billzito.octavio.parcial1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621642962 source:c:\users\octav\desktop\billzito.octavio.parcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"utn.h"
+
+1621643611 c:\users\octav\desktop\billzito.octavio.parcial1\informes.h
+	"juego.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+
